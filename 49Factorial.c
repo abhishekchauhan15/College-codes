@@ -1,3 +1,5 @@
+//WAP to calculate the factorial of a program 
+
 #include <stdio.h>
  
 int fact(int n)
