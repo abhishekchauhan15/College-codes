@@ -8,7 +8,7 @@ int main() {
     b=a--;
     printf("%d \n",b);
 
-    printf("%d",a);
+    printf("this is %d",a);
 
 
 
