@@ -1,3 +1,4 @@
+//WAP to check the given number is vowel or not 
 #include <stdio.h>
 int main() {
     char alpha;
