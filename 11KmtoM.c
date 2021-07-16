@@ -1,3 +1,4 @@
+//WAP to change m,cm,inch into KM 
 #include <stdio.h>
 int main() {
     int km,m,cm,inch,feet;
