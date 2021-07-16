@@ -1,3 +1,4 @@
+//WAP to calculate Simple Interst 
 #include <stdio.h>
 int main() {
     float s, p, t, r;
