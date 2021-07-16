@@ -1,3 +1,4 @@
+//WAP to check weather a give number is armstring or not 
 #include <stdio.h>
 int main()
 {
