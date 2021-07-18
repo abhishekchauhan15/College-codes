@@ -1,3 +1,4 @@
+//WAP to print ASCII value of a number 
 #include <stdio.h>
 int main() {
     char a;
