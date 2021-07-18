@@ -1,3 +1,4 @@
+//WAP for addition ,substraction , multiplication , division 
 #include <stdio.h>
 int main() {
     int a,b,add, sub, multi, div;
