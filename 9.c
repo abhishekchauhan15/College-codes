@@ -1,3 +1,4 @@
+#WAP to find gross salary
 #include <stdio.h>
 int main(){
     int base,gross,promotion=5000;
